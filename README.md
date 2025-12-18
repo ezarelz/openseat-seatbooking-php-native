@@ -1,4 +1,3 @@
-```md
 # 🪑 Church Seat Booking System (PHP Native)
 
 A simple and reliable **seat booking web application** built with **native PHP + MySQL**, designed to manage church service seat quotas fairly and safely.
@@ -32,7 +31,6 @@ This project intentionally uses **plain PHP** to demonstrate:
 ---
 
 ## 🗂️ Project Structure
-```
 
 WEB-GEREJA-SEAT-PHP/
 ├── config/
