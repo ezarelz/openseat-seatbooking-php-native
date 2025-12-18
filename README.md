@@ -51,7 +51,7 @@ WEB-GEREJA-SEAT-PHP/
 
 ## 🔧 Requirements
 
-- PHP 8.0+
+- PHP 7.4+
 - MySQL / MariaDB
 - Web server (Apache / Nginx / Laragon / XAMPP)
 - PDO enabled
@@ -129,8 +129,8 @@ http://localhost/test-db.php
 - Can be deployed to:
 
   - InfinityFree
-  - VPS (Hestia / Nginx)
-  - Local XAMPP
+  - VPS (Nginx / Apache)
+  - Local XAMPP / Laragon
 
 ---
 
