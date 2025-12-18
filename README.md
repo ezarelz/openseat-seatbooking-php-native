@@ -32,6 +32,7 @@ This project intentionally uses **plain PHP** to demonstrate:
 
 ## 🗂️ Project Structure
 
+```
 WEB-GEREJA-SEAT-PHP/
 ├── config/
 │ └── db.php # PDO connection & env loader
@@ -44,7 +45,7 @@ WEB-GEREJA-SEAT-PHP/
 ├── test-db.php # DB connection test
 └── .gitignore
 
-````
+```
 
 ---
 
@@ -52,7 +53,7 @@ WEB-GEREJA-SEAT-PHP/
 
 - PHP 8.0+
 - MySQL / MariaDB
-- Web server (Apache / Nginx / XAMPP)
+- Web server (Apache / Nginx / Laragon / XAMPP)
 - PDO enabled
 
 ---
@@ -60,10 +61,11 @@ WEB-GEREJA-SEAT-PHP/
 ## ⚙️ Installation
 
 ### 1️⃣ Clone repository
+
 ```bash
 git clone https://github.com/yourusername/church-seat-booking-php.git
 cd church-seat-booking-php
-````
+```
 
 ### 2️⃣ Setup environment
 
@@ -150,8 +152,3 @@ http://localhost/test-db.php
 ---
 
 > “Simple systems, built with care, scale better than complex ones built in haste.”
-
-```
-
-
-```
